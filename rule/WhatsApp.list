@@ -1,0 +1,21 @@
+# WhatsApp 分流规则  (abxian/stash-override)
+# WhatsApp 走 Meta 基础设施，以域名为主，DOMAIN-KEYWORD 兜底
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.org
+DOMAIN-SUFFIX,whatsapp.info
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,whatsapp.cc
+DOMAIN-SUFFIX,whatsapp.tv
+DOMAIN-SUFFIX,whatsappbrand.com
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,w4.com
+DOMAIN,static.whatsapp.net
+DOMAIN,dit.whatsapp.net
+DOMAIN,g.whatsapp.net
+DOMAIN,v.whatsapp.net
+DOMAIN,mmg.whatsapp.net
+DOMAIN,media.whatsapp.net
+DOMAIN,pps.whatsapp.net
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,whatscall
