@@ -1,0 +1,4 @@
+# Payoneer 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,payoneer.com
+DOMAIN-SUFFIX,payoneer.io
+DOMAIN-KEYWORD,payoneer
