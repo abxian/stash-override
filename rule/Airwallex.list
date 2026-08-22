@@ -1,0 +1,3 @@
+# Airwallex 空中云汇 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,airwallex.com
+DOMAIN-KEYWORD,airwallex
