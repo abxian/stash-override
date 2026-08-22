@@ -1,0 +1,13 @@
+# SHEIN 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,shein.com
+DOMAIN-SUFFIX,shein.com.hk
+DOMAIN-SUFFIX,sheinm.com
+DOMAIN-SUFFIX,sheincorp.com
+DOMAIN-SUFFIX,sheincorp.cn
+DOMAIN-SUFFIX,sheingroup.com
+DOMAIN-SUFFIX,sheinsz.com
+DOMAIN-SUFFIX,sheincdn.com
+DOMAIN-SUFFIX,ltwebstatic.com
+DOMAIN-SUFFIX,shein-inc.com
+DOMAIN-SUFFIX,romwe.com
+DOMAIN-KEYWORD,shein
