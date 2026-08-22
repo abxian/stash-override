@@ -1,0 +1,78 @@
+# 国际快递 / 物流 / 海关税务 聚合清单 — abxian/stash-override
+# --- 国际四大快递 ---
+DOMAIN-SUFFIX,dhl.com
+DOMAIN-SUFFIX,dhl.de
+DOMAIN-SUFFIX,dhl.co.uk
+DOMAIN-SUFFIX,dhlexpress.com
+DOMAIN-SUFFIX,dhlparcel.com
+DOMAIN-SUFFIX,dhlecommerce.com
+DOMAIN-SUFFIX,dhlglobalmail.com
+DOMAIN-KEYWORD,dhl
+DOMAIN-SUFFIX,fedex.com
+DOMAIN-SUFFIX,fedex.cn
+DOMAIN-SUFFIX,fedexcorp.com
+DOMAIN-KEYWORD,fedex
+DOMAIN-SUFFIX,ups.com
+DOMAIN-SUFFIX,upscapital.com
+DOMAIN-SUFFIX,usps.com
+DOMAIN-SUFFIX,uspsoig.gov
+DOMAIN-SUFFIX,tnt.com
+DOMAIN-SUFFIX,aramex.com
+# --- 欧美主流快递 ---
+DOMAIN-SUFFIX,dpd.com
+DOMAIN-SUFFIX,dpdgroup.com
+DOMAIN-SUFFIX,dpd.co.uk
+DOMAIN-SUFFIX,gls-group.eu
+DOMAIN-SUFFIX,gls-group.com
+DOMAIN-SUFFIX,evri.com
+DOMAIN-SUFFIX,hermesworld.com
+DOMAIN-SUFFIX,myhermes.co.uk
+DOMAIN-SUFFIX,yodel.co.uk
+DOMAIN-SUFFIX,purolator.com
+DOMAIN-SUFFIX,ontrac.com
+DOMAIN-SUFFIX,lasership.com
+DOMAIN-SUFFIX,speedee.com
+# --- 各国邮政 ---
+DOMAIN-SUFFIX,royalmail.com
+DOMAIN-SUFFIX,parcelforce.com
+DOMAIN-SUFFIX,canadapost.ca
+DOMAIN-SUFFIX,canadapost-postescanada.ca
+DOMAIN-SUFFIX,auspost.com.au
+DOMAIN-SUFFIX,japanpost.jp
+DOMAIN-SUFFIX,epost.go.kr
+DOMAIN-SUFFIX,laposte.fr
+DOMAIN-SUFFIX,colissimo.fr
+DOMAIN-SUFFIX,chronopost.fr
+DOMAIN-SUFFIX,deutschepost.de
+DOMAIN-SUFFIX,postnl.nl
+DOMAIN-SUFFIX,correos.es
+DOMAIN-SUFFIX,poste.it
+DOMAIN-SUFFIX,posti.fi
+DOMAIN-SUFFIX,postnord.com
+DOMAIN-SUFFIX,bring.com
+# --- 物流查询聚合 ---
+DOMAIN-SUFFIX,17track.net
+DOMAIN-SUFFIX,trackingmore.com
+DOMAIN-SUFFIX,aftership.com
+DOMAIN-SUFFIX,parcelsapp.com
+DOMAIN-SUFFIX,packagetrackr.com
+# --- 跨境物流服务商 ---
+DOMAIN-SUFFIX,4px.com
+DOMAIN-SUFFIX,yuntrack.com
+DOMAIN-SUFFIX,yunexpress.com
+DOMAIN-SUFFIX,yw56.com.cn
+DOMAIN-SUFFIX,sypost.net
+DOMAIN-SUFFIX,winit.com.cn
+DOMAIN-SUFFIX,goodcang.com
+DOMAIN-SUFFIX,jtexpress.com
+DOMAIN-SUFFIX,ninjavan.co
+DOMAIN-SUFFIX,flexport.com
+DOMAIN-SUFFIX,freightos.com
+# --- 海关 / 税务合规（境外）---
+DOMAIN-SUFFIX,cbp.gov
+DOMAIN-SUFFIX,trade.gov
+DOMAIN-SUFFIX,hmrc.gov.uk
+DOMAIN-SUFFIX,avalara.com
+DOMAIN-SUFFIX,taxjar.com
+DOMAIN-SUFFIX,vatglobal.com
+DOMAIN-SUFFIX,taxually.com
