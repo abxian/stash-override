@@ -1,0 +1,55 @@
+# 人机验证 / 风控反欺诈 / 身份认证 聚合清单 — abxian/stash-override
+# 跨境电商关键：验证服务若走错 IP，会与账号出口不一致，直接触发平台风控
+# --- Cloudflare（Turnstile 验证 / CDN / Workers）---
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cf-assets.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,pages.dev
+# --- reCAPTCHA（独立域名；google.com/gstatic 路径版归谷歌服务，勿在此拦截）---
+DOMAIN-SUFFIX,recaptcha.net
+# --- hCaptcha ---
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,hcaptcha.io
+# --- Arkose Labs / FunCaptcha（OpenAI、Roblox、微软等在用）---
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,arkoselabs.cn
+DOMAIN-SUFFIX,funcaptcha.com
+DOMAIN-SUFFIX,funcaptcha.co
+# --- GeeTest 极验 ---
+DOMAIN-SUFFIX,geetest.com
+# --- 反爬 / 风控 ---
+DOMAIN-SUFFIX,datadome.co
+DOMAIN-SUFFIX,perimeterx.net
+DOMAIN-SUFFIX,px-cdn.net
+DOMAIN-SUFFIX,px-cloud.net
+DOMAIN-SUFFIX,incapsula.com
+DOMAIN-SUFFIX,imperva.com
+DOMAIN-SUFFIX,distilnetworks.com
+DOMAIN-SUFFIX,threatmetrix.com
+DOMAIN-SUFFIX,online-metrix.net
+# --- 设备指纹 / 反欺诈（电商风控常见）---
+DOMAIN-SUFFIX,fingerprint.com
+DOMAIN-SUFFIX,fpjs.io
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,sift.com
+DOMAIN-SUFFIX,kount.com
+DOMAIN-SUFFIX,riskified.com
+DOMAIN-SUFFIX,signifyd.com
+DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,ravelin.com
+# --- 身份认证 / 短信验证码 ---
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,oktacdn.com
+DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,authy.com
+DOMAIN-SUFFIX,duosecurity.com
+DOMAIN-SUFFIX,stytch.com
+DOMAIN-SUFFIX,onelogin.com
