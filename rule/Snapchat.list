@@ -1,0 +1,8 @@
+# Snapchat 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snapkit.com
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-KEYWORD,snapchat
