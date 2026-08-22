@@ -1,0 +1,5 @@
+# Etsy 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,etsy.com
+DOMAIN-SUFFIX,etsystatic.com
+DOMAIN-SUFFIX,etsyapi.com
+DOMAIN-KEYWORD,etsy
