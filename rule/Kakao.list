@@ -1,0 +1,7 @@
+# KakaoTalk 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-SUFFIX,kakaotalk.com
+DOMAIN-SUFFIX,daumcdn.net
+DOMAIN-SUFFIX,kakaoi.ai
+DOMAIN-KEYWORD,kakao
