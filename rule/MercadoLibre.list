@@ -1,0 +1,11 @@
+# MercadoLibre / MercadoPago 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,mercadolibre.com
+DOMAIN-SUFFIX,mercadolibre.com.ar
+DOMAIN-SUFFIX,mercadolibre.com.mx
+DOMAIN-SUFFIX,mercadolivre.com.br
+DOMAIN-SUFFIX,mercadopago.com
+DOMAIN-SUFFIX,mercadopago.com.br
+DOMAIN-SUFFIX,mlstatic.com
+DOMAIN-KEYWORD,mercadolibre
+DOMAIN-KEYWORD,mercadolivre
+DOMAIN-KEYWORD,mercadopago
