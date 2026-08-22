@@ -1,0 +1,9 @@
+# Temu (拼多多跨境) 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,temucdn.com
+DOMAIN-SUFFIX,kwcdn.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pddugc.com
+DOMAIN-SUFFIX,temuimg.com
+DOMAIN-SUFFIX,temustatic.com
+DOMAIN-KEYWORD,temu
