@@ -3,10 +3,15 @@ payload:
   - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
+  - DOMAIN-SUFFIX,anquan
   - DOMAIN-SUFFIX,citic
+  - DOMAIN-SUFFIX,icbc
+  - DOMAIN-SUFFIX,shouji
+  - DOMAIN-SUFFIX,sina
   - DOMAIN-SUFFIX,sohu
   - DOMAIN-SUFFIX,unicom
   - DOMAIN-SUFFIX,wang
+  - DOMAIN-SUFFIX,xihuan
   - DOMAIN-SUFFIX,xn--1qqw23a
   - DOMAIN-SUFFIX,xn--3bst00m
   - DOMAIN-SUFFIX,xn--3ds443g
@@ -17,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,xn--6qq986b3xl
   - DOMAIN-SUFFIX,xn--8y0a063a
   - DOMAIN-SUFFIX,xn--9et52u
+  - DOMAIN-SUFFIX,xn--9krt00a
   - DOMAIN-SUFFIX,xn--czr694b
   - DOMAIN-SUFFIX,xn--czrs0t
   - DOMAIN-SUFFIX,xn--czru2d
@@ -39,7 +45,7 @@ payload:
   - DOMAIN-SUFFIX,xn--vuq861b
   - DOMAIN-SUFFIX,xn--xhq521b
   - DOMAIN-SUFFIX,xn--zfr164b
-  - DOMAIN-SUFFIX,icbc
+  - DOMAIN-SUFFIX,yun
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
@@ -49,7 +55,7 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
-  - DOMAIN-KEYWORD,qiyi
