@@ -1,0 +1,11 @@
+# Lazada 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,lazada.com
+DOMAIN-SUFFIX,lazada.sg
+DOMAIN-SUFFIX,lazada.co.id
+DOMAIN-SUFFIX,lazada.co.th
+DOMAIN-SUFFIX,lazada.com.my
+DOMAIN-SUFFIX,lazada.com.ph
+DOMAIN-SUFFIX,lazada.vn
+DOMAIN-SUFFIX,slatic.net
+DOMAIN-SUFFIX,lazcdn.com
+DOMAIN-KEYWORD,lazada
