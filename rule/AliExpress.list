@@ -1,0 +1,8 @@
+# AliExpress 速卖通 分流规则 — abxian/stash-override
+DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,aliexpress.ru
+DOMAIN-SUFFIX,aliexpress.us
+DOMAIN-SUFFIX,aliexpress-media.com
+DOMAIN-SUFFIX,ae01.alicdn.com
+DOMAIN-SUFFIX,ae-pic-a1.aliexpress-media.com
+DOMAIN-KEYWORD,aliexpress
